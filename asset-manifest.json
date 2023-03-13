@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02bd9456.css",
+    "main.js": "/static/js/main.b2993e05.js",
+    "static/media/diegif.gif": "/static/media/diegif.01e520028797b8ad2abe.gif",
+    "static/media/T_WL.png": "/static/media/T_WL.aa7f7673f140b0ed0a69.png",
+    "static/media/Web_back.png": "/static/media/Web_back.ec2946d2f393eda6bac4.png",
+    "static/media/SB_WL.png": "/static/media/SB_WL.ccaf1f737ccded0f52e3.png",
+    "static/media/SC_WL.png": "/static/media/SC_WL.c0c0aa3500c492dbf1d5.png",
+    "static/media/POD_Web.png": "/static/media/POD_Web.a052b009bebe9d7c184a.png",
+    "static/media/PTH_WL.png": "/static/media/PTH_WL.b9c2d5b028ad08acb272.png",
+    "static/media/ML_WL.png": "/static/media/ML_WL.d58721bfe32f41d2dbd8.png",
+    "static/media/TB_WL.png": "/static/media/TB_WL.496be12742fe4121ee8f.png",
+    "static/media/WC_WL.png": "/static/media/WC_WL.36b1f0f55f85f96c3d91.png",
+    "static/media/EMPTY_WL.png": "/static/media/EMPTY_WL.f2c35ad0ad5dcfa893d9.png",
+    "index.html": "/index.html",
+    "static/media/twitter.svg": "/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
+    "main.02bd9456.css.map": "/static/css/main.02bd9456.css.map",
+    "main.b2993e05.js.map": "/static/js/main.b2993e05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02bd9456.css",
+    "static/js/main.b2993e05.js"
+  ]
+}
