@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.61e121ba.css",
-    "main.js": "/static/js/main.907bdcee.js",
+    "main.js": "/static/js/main.310f44d9.js",
     "static/media/diegif.gif": "/static/media/diegif.01e520028797b8ad2abe.gif",
     "static/media/T_WL.png": "/static/media/T_WL.aa7f7673f140b0ed0a69.png",
     "static/media/Web_back.png": "/static/media/Web_back.ec2946d2f393eda6bac4.png",
@@ -13,7 +13,6 @@
     "static/media/DW_WL.png": "/static/media/DW_WL.a7cb9785ce533025aedf.png",
     "static/media/O_WL.png": "/static/media/O_WL.320fae20bef8ed5bd159.png",
     "static/media/ML_WL.png": "/static/media/ML_WL.d58721bfe32f41d2dbd8.png",
-    "static/media/TB_WL.png": "/static/media/TB_WL.496be12742fe4121ee8f.png",
     "static/media/WC_WL.png": "/static/media/WC_WL.36b1f0f55f85f96c3d91.png",
     "static/media/EMPTY_WL.png": "/static/media/EMPTY_WL.f2c35ad0ad5dcfa893d9.png",
     "static/media/V_WL.png": "/static/media/V_WL.6aa463a08aca0a7b070f.png",
@@ -21,10 +20,10 @@
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
     "main.61e121ba.css.map": "/static/css/main.61e121ba.css.map",
-    "main.907bdcee.js.map": "/static/js/main.907bdcee.js.map"
+    "main.310f44d9.js.map": "/static/js/main.310f44d9.js.map"
   },
   "entrypoints": [
     "static/css/main.61e121ba.css",
-    "static/js/main.907bdcee.js"
+    "static/js/main.310f44d9.js"
   ]
 }
